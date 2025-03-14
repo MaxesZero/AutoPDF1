@@ -1,0 +1,22 @@
+# Credentials and sensitive files
+google_credentials.json
+*.key
+*.pem
+*credentials*.json
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+
+# PDF templates
+*.pdf
+*.pdfa
+*.pdfb
+*.pdfc
